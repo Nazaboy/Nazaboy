@@ -1,4 +1,4 @@
-# 🚀 Nazim Diafi's GitHub
+# Hi, I'm Nazim
 
 Welcome to my profile! I’m **Nazim Diafi**, a Junior Data Analyst and Project Manager with a focus on data analysis and engineering.
 
