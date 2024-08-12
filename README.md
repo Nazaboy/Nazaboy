@@ -45,8 +45,6 @@ Scrum Master for developing a travel agency distributor using Amadeus and other 
 
 - **Active Again:** Excited to engage in new projects!
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nazaboy&theme=tokyonight-duo&hide_total_contributions=true)](https://git.io/streak-stats)
-
 ## 🎉 Fun Fact
 
 - I’m passionate about motorsports and racing. I love analyzing race data and exploring new racing technologies!
