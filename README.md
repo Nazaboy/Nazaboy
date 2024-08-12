@@ -41,12 +41,4 @@ Scrum Master for developing a travel agency distributor using Amadeus and other 
 - [LinkedIn](https://www.linkedin.com/in/nazim-diafi)
 - [Email](mailto:diafinazim@gmail.com)
 
-## 🌟 Returning to GitHub
-
-- **Active Again:** Excited to engage in new projects!
-
-## 🎉 Fun Fact
-
-- I’m passionate about motorsports and racing. I love analyzing race data and exploring new racing technologies!
-
 Thank you for visiting!
