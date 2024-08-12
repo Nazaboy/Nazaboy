@@ -1,6 +1,6 @@
 # 🚀 Nazim Diafi's GitHub
 
-Welcome to my GitHub profile! I'm Nazim Diafi, a passionate Junior Data Analyst and Project Manager with a keen interest in data analysis and data engineering.
+Welcome to my profile! I’m **Nazim Diafi**, a Junior Data Analyst and Project Manager with a focus on data analysis and engineering.
 
 ## 🌟 About Me
 
@@ -11,47 +11,44 @@ Welcome to my GitHub profile! I'm Nazim Diafi, a passionate Junior Data Analyst 
 - **FastAPI**
 
 📈 **Specialties:**  
-- Transforming data into actionable insights
-- Driving results through detailed analysis and visualization
-- ETL and ELT processes, along with foundational data engineering concepts
+- ETL/ELT and data visualisation.
+- Software project management.
 
 🚀 **Current Focus:**  
-- Actively working on data analysis and visualization projects
-- Enhancing project management skills and methodologies
+- Data analysis and visualization projects
+- Improving project management skills
 
-## 🌱 I’m Currently Learning
+## 🌱 Currently Learning
 
-- **Machine Learning (ML):** Diving into advanced algorithms and models for enhanced predictive capabilities and automation.
-- **Computational Fluid Dynamics (CFD):** Exploring simulations and modeling techniques to optimize engineering designs.
-- **Time Series Forecasting:** Developing methods to analyze and predict trends over time for accurate forecasting and decision-making.
+- **Machine Learning (ML):** Advanced algorithms and models
+- **Computational Fluid Dynamics (CFD):** Simulations and modeling
+- **Time Series Forecasting:** Trend analysis and prediction
 
 🏎️ **Passions:**  
 - Motorsports and racing
-- Business management and strategy
+- Business strategy
 
 ## 🚀 Recent Projects
 
 ### 1. **Workout Trends Analysis**
-Explored global workout trends and keyword popularity over time. Visualized data distributions and trends to gain insights into workout interests across different regions.
+Analyzed and visualized global workout trends and keyword popularity.
 
 ### 2. **Foundoq.com** (In Progress)
-Working as a Scrum Master for the development of a travel agency distributor using Amadeus and various third-party APIs. Responsible for software documentation and shareholder relations.
+Scrum Master for developing a travel agency distributor using Amadeus and other APIs. Handling documentation and stakeholder relations.
 
 ## 🌐 Connect with Me
-
-Feel free to reach out if you want to discuss data analysis, project management, or share insights on racing and business!
 
 - [LinkedIn](https://www.linkedin.com/in/nazim-diafi)
 - [Email](mailto:diafinazim@gmail.com)
 
 ## 🌟 Returning to GitHub
 
-- **Active Again:** I’m back on GitHub and excited to dive into new projects and collaborations!
+- **Active Again:** Excited to engage in new projects!
 
-<center> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nazaboy&theme=tokyonight-duo&hide_total_contributions=true)](https://git.io/streak-stats) </center>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nazaboy&theme=tokyonight-duo&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ## 🎉 Fun Fact
 
-- I have a deep passion for motorsports and racing. Whether it’s analyzing race data or dreaming about the latest racing technology, I’m always excited by the thrill of the track!
+- I’m passionate about motorsports and racing. I love analyzing race data and exploring new racing technologies!
 
-Thank you for visiting my profile!
+Thank you for visiting!
