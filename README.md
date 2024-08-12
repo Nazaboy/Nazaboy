@@ -48,7 +48,7 @@ Feel free to reach out if you want to discuss data analysis, project management,
 
 - **Active Again:** I’m back on GitHub and excited to dive into new projects and collaborations!
 
-<center>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nazaboy&theme=tokyonight-duo&hide_total_contributions=true)](https://git.io/streak-stats)</center>
+<center> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nazaboy&theme=tokyonight-duo&hide_total_contributions=true)](https://git.io/streak-stats) </center>
 
 ## 🎉 Fun Fact
 
