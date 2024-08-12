@@ -48,6 +48,8 @@ Feel free to reach out if you want to discuss data analysis, project management,
 
 - **Active Again:** I’m back on GitHub and excited to dive into new projects and collaborations!
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nazaboy&theme=tokyonight-duo&hide_total_contributions=true)](https://git.io/streak-stats)
+
 ## 🎉 Fun Fact
 
 - I have a deep passion for motorsports and racing. Whether it’s analyzing race data or dreaming about the latest racing technology, I’m always excited by the thrill of the track!
