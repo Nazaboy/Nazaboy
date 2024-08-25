@@ -11,6 +11,7 @@ Welcome to my profile! I’m **Nazim Diafi**, a Junior Data Analyst and Project 
 - **FastAPI**
 
 📈 **Specialties:**  
+- BI.
 - ETL/ELT and data visualisation.
 - Software project management.
 
