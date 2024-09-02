@@ -39,7 +39,7 @@ Scrum Master for developing a travel agency distributor using Amadeus and other 
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/nazim-diafi)
+- [LinkedIn](www.linkedin.com/in/nazimdiafi)
 - [Email](mailto:diafinazim@gmail.com)
 
 Thank you for visiting!
