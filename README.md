@@ -22,7 +22,7 @@ Welcome to my profile! I’m **Nazim Diafi**, a Junior Data Analyst and Project 
 ## 🌱 Currently Learning
 
 - **Machine Learning (ML):** Advanced algorithms and models
-- **Computational Fluid Dynamics (CFD):** Simulations and modeling
+- **Sentiment Analysis:** For financial markets.
 - **Time Series Forecasting:** Trend analysis and prediction
 
 🏎️ **Passions:**  
