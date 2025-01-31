@@ -1,19 +1,8 @@
 # Hi, I'm Nazim
 
-Welcome to my profile! I’m **Nazim Diafi**, a Junior Data Analyst and Project Manager with a focus on data analysis and engineering.
+Welcome to my profile! I’m **Nazim Diafi**, a Junior Data Analyst.
 
 ## 🌟 About Me
-
-🔍 **Proficient in:**  
-- **Python:** matplotlib, numpy, pandas
-- **SQL:** MySQL, SQLite
-- **Power BI and DAX**
-- **FastAPI**
-
-📈 **Specialties:**  
-- BI.
-- ETL/ELT and data visualisation.
-- Software project management.
 
 🚀 **Current Focus:**  
 - Data analysis and visualization projects
@@ -29,13 +18,6 @@ Welcome to my profile! I’m **Nazim Diafi**, a Junior Data Analyst and Project 
 - Motorsports and racing
 - Business strategy
 
-## 🚀 Recent Projects
-
-### 1. **Workout Trends Analysis**
-Analyzed and visualized global workout trends and keyword popularity.
-
-### 2. **Foundoq.com** (In Progress)
-Scrum Master for developing a travel agency distributor using Amadeus and other APIs. Handling documentation and stakeholder relations.
 
 ## 🌐 Connect with Me
 
